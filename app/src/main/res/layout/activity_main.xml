@@ -41,4 +41,11 @@
         android:layout_height="wrap_content"
         android:text="Log In" />
 
+    <Button
+        android:id="@+id/cancelBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:layout_marginTop="20dp"/>
+
 </LinearLayout>
